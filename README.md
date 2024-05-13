@@ -33,21 +33,6 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 4. Get Email Notification about the confirmation of the order
 
 
-
-## Support Developer
-1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
-2. Add a Star 🌟  to this 👆 Repository
-
-
-## Donate
-
-**[PayPal](https://bit.ly/support-vijay-thapa)**
-
-**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
-
-**Donate by wire transfer:** E-Mail at *donate@vijaythapa.com* for wire transfer details. 
-
-
 ## How to Install and Run this project?
 
 ### Pre-Requisites:
@@ -96,14 +81,8 @@ $  source venv/bin/activate
 ```
 
 **3. Clone this project**
-```
-$  git clone https://github.com/vijaythapa333/simple-multivendor-site.git
-```
 
-Then, Enter the project
-```
 $  cd simple-multivendor-site
-```
 
 **4. Install Requirements from 'requirements.txt'**
 ```python
@@ -145,11 +124,4 @@ Command for MAC:
 ```
 $  python3 manage.py createsuperuser
 ```
-Then Add Email, Username and Password
-
-
-
-## For Sponsor or Projects Enquiry
-1. Email - hi@vijaythapa.com
-2. LinkedIn - [vijaythapa](https://www.linkedin.com/in/vijaythapa "Vijay Thapa on LinkedIn")
-
+Then Add Email, Username and password 
